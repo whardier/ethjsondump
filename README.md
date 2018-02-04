@@ -2,7 +2,7 @@
 Ethereum Blockchain JSON dump (blocks w/ transactions) and other such nonsense.
 
 # wha?
-Simple script to pull blocks out of a local ethereum node and store them in this repository.
+Simple script to pull blocks out of Infura.io and store them in this repository.
 
 # why?
 R&D: Research and Deviance.
